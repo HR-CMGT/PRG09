@@ -5,6 +5,10 @@
 - [Strategy Tank](https://github.com/HR-CMGT/PRG09-design-patterns-strategy-tank)
 - [Breakout](https://github.com/HR-CMGT/PRG09-design-patterns-breakout)
 
-## [Machine Learning](https://github.com/HR-CMGT/PRG09-ML)
+## Machine Learning
 
-## [AI](https://github.com/HR-CMGT/PRG09-AI)
+Startcode voor de opdracht over [Machine Learning](https://github.com/HR-CMGT/PRG09-ML)
+
+## AI
+
+Startcode voor de opdracht over [AI](https://github.com/HR-CMGT/PRG09-AI)
